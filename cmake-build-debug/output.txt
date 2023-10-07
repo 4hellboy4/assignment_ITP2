@@ -1,5 +1,3 @@
-Invalid inputs
-Found
-ID: 1, Name: Alaa, Position: Forward, Age: 25, Goals: 100
-ID: 3, Name: Sergei, Position: Forward, Age: 25, Goals: 100
-ID: 5, Name: Nikita, Position: Midfielder, Age: 25, Goals: 400
+Not found
+Impossible to delete
+ID: 12, Name: Munir, Position: Forward, Age: 25, Goals: 100
